@@ -9,6 +9,7 @@ I like [tech] writing, reading, chess, climbing, lifting weights, traveling, cat
 - Python
 - Blockchain (Ethereum/Solana)
 - API doc knowledge (OpenAPI, FastAPI)
+- TypeScript
 
 ## Currently reading
 
