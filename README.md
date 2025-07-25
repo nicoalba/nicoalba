@@ -1,5 +1,3 @@
-# About me
-
 I'm passionate about simplying complex topics through true understanding.
 
 I like [tech] writing, reading, chess, climbing, lifting weights, traveling, cats, fine whiskeys & cigars, good food, liberty, the blockchain, decentralization, Python, and supporting the Argentine national football team.
