@@ -16,3 +16,10 @@ I like [tech] writing, reading, chess, climbing, lifting weights, traveling, cat
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) by by Andreas M. Antonopoulos and Gavin Wood
 - [Automate the Boring Stuff with Python](https://www.amazon.com/Automate-Boring-Stuff-Python-3rd/dp/1718503407) by Al Sweigart
 - [Mastering Blockchain](https://www.amazon.com/Mastering-Blockchain-technical-blockchain-cryptography/) by Imran Bashir
+
+## Projects
+
+- [docsite-apis](https://github.com/nicoalba/docsite-apis): A static docsite generated with [MkDocs](https://mkdocs.org/), including an OpeniAPI spec I create from scratch, and API docs generated with Redocly, all served with GitHub pages.
+- [python-web3-app](https://github.com/nicoalba/python-web3-app): A Python web3 app that connects to Ethereum/Solana test networks and queries an address for the ETH/SOL balance. Includes auto-generated API docs with FastAPI.
+- [python-script-docs](https://github.com/nicoalba/python-script-docs): A simple API endpoint script that reads a YAML file and writes the endpoints to Markdown.
+- [k8s-repo-fork](https://github.com/nicoalba/k8s-repo-fork/pull/1): I reviewed, edited, and uplifted a tutorial on the Kubernetes open-source docs.
