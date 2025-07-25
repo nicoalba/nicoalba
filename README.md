@@ -2,7 +2,9 @@
 
 I'm passionate about simplying complex topics through true understanding.
 
-I like [tech] writing, reading, chess, climbing, lifting weights, traveling, cats, fine whiskeys & cigars, good food, liberty, the blockchain, decentralization, Python, and supporting the Argentine national football team.
+I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/stats/blitz?days=0), climbing, lifting weights, traveling, cats, fine whiskeys & cigars, good food, liberty, the blockchain, decentralization, Python, and supporting the Argentine national football team.
+
+
 
 ## Currently learning
 
