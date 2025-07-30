@@ -11,6 +11,7 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 - Python
 - Blockchain (Ethereum/Solana)
 - API doc knowledge (OpenAPI, FastAPI)
+- reStructuredText + Sphinx
 
 ## Currently reading
 
