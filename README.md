@@ -28,3 +28,4 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 - [python-script-docs](https://github.com/nicoalba/python-script-docs): A simple Python script that reads a YAML file and writes the API endpoints to a Markdown file.
 - [k8s-repo-fork](https://github.com/nicoalba/k8s-repo-fork/pull/1): I reviewed, edited, and uplifted a tutorial on the Kubernetes open-source docs.
 - [js-basic-programming](https://github.com/nicoalba/js-basic-programming): A basic JavaScript web app I coded and documented for a class on Udemy.
+- [solana-demo](https://github.com/nicoalba/solana-demo): A basic Solana smart contract (program) built with Anchor using a Rust template.
