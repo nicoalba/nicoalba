@@ -24,7 +24,7 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 - [docsite-apis](https://github.com/nicoalba/docsite-apis): A static doc site generated with MkDocs, including an OpenAPI spec I created from scratch and API docs generated with Redocly, all served with GitHub pages.
   - [mkdocs-devops](https://github.com/nicoalba/mkdocs-devops): The same MkDocs doc site containerized with Docker and served w/ K8s, to showcase some basic devops skills.
 - [sphinx-rst-demo](https://github.com/nicoalba/sphinx-rst-demo): A simple Sphinx doc site written entirely in reStructuredText. It's configured via `.conf.py`, built using `make html`, and served with GitHub pages.
-- [python-web3-app](https://github.com/nicoalba/python-web3-app): A Python web3 app that connects to Ethereum/Solana test networks and queries an address for the ETH/SOL balance. Includes auto-generated API docs with FastAPI.
+- [python-web3-app](https://github.com/nicoalba/python-web3-app): A Python web3 app that connects to Ethereum/Solana test networks and queries an address for the ETH/SOL balance. Includes auto-generated FastAPI docs, deployed with Render.
 - [python-script-docs](https://github.com/nicoalba/python-script-docs): A simple Python script that reads a YAML file and writes the API endpoints to a Markdown file.
 - [k8s-repo-fork](https://github.com/nicoalba/k8s-repo-fork/pull/1): I reviewed, edited, and uplifted a tutorial on the Kubernetes open-source docs.
 - [solana-demo](https://github.com/nicoalba/solana-demo): A basic Solana smart contract built with Anchor using a Rust template and deployed in a WSL2 Linux environment.
