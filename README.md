@@ -21,7 +21,7 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 
 ## Projects
 
-- [docsite-apis](https://github.com/nicoalba/docsite-apis): A static doc site generated with MkDocs, including an OpenAPI spec I created from scratch and API docs generated with Redocly, all served with GitHub pages.
+- [docsite-apis](https://github.com/nicoalba/docsite-apis): A static doc site generated with MkDocs, including an OpenAPI spec I created from scratch and API docs generated with Redocly, all served with GitHub Pages.
   - [mkdocs-devops](https://github.com/nicoalba/mkdocs-devops): The same MkDocs doc site containerized with Docker and served w/ K8s, to showcase some basic devops skills.
 - [sphinx-rst-demo](https://github.com/nicoalba/sphinx-rst-demo): A simple Sphinx doc site written entirely in reStructuredText. It's configured via `.conf.py`, built using `make html`, and served with GitHub pages.
 - [python-web3-app](https://github.com/nicoalba/python-web3-app): A Python web3 app that connects to Ethereum/Solana test networks and queries an address for the ETH/SOL balance. Includes auto-generated FastAPI docs, deployed with Render.
