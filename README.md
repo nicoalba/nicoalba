@@ -1,10 +1,6 @@
 ## About me
 
-I like bringing order and understanding to complex topics, whether it be through clear documentation, information architecture, or structured planning.
-
-I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/stats/blitz?days=0), climbing, lifting weights, traveling, cats, fine whiskeys & cigars, good food, liberty, the blockchain, decentralization, Python, and supporting the Argentine national football team.
-
-
+I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/stats/blitz?days=0), climbing, lifting weights, traveling, cats, fine whiskeys & cigars, good food, truth, liberty, the blockchain & decentralization, Python, and supporting the Argentine national football team.
 
 ## Currently learning
 
@@ -12,6 +8,7 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 - Blockchain (Ethereum/Solana)
 - API doc knowledge (OpenAPI, FastAPI)
 - reStructuredText + Sphinx
+- GenAI and RAG
 
 ## Currently reading
 
