@@ -18,6 +18,7 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 
 ## Projects
 
+- [docs-rag-agent](https://github.com/nicoalba/docs-rag-agent): Work in progress: A docs RAG Q&A bot that answers questions about QuickNode Streams with source citations.
 - [docsite-apis](https://github.com/nicoalba/docsite-apis): A static doc site generated with MkDocs, including an OpenAPI spec I created from scratch and API docs generated with Redocly, all served with GitHub Pages.
   - [mkdocs-devops](https://github.com/nicoalba/mkdocs-devops): The same MkDocs doc site containerized with Docker and served w/ K8s, to showcase some basic devops skills.
 - [sphinx-rst-demo](https://github.com/nicoalba/sphinx-rst-demo): A simple Sphinx doc site written entirely in reStructuredText. It's configured via `.conf.py`, built using `make html`, and served with GitHub pages.
