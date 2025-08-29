@@ -4,7 +4,7 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 
 ## Currently learning
 
-- Python
+- Python/Rust
 - Blockchain (Ethereum/Solana)
 - API doc knowledge (OpenAPI, FastAPI)
 - reStructuredText + Sphinx
