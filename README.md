@@ -18,6 +18,8 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 
 ## Projects
 
+#### AI, APIs, and DevOps
+
 - [rag-chatbot](https://github.com/nicoalba/docs-rag-agent): A RAG chatbot with source citations, powered by Ollama + Chroma. Streamlit front end and FastAPI back end.
 - [docsite-apis](https://github.com/nicoalba/docsite-apis): A static doc site generated with MkDocs, including an OpenAPI spec I created from scratch and API docs generated with Redocly, all served with GitHub Pages.
   - [mkdocs-devops](https://github.com/nicoalba/mkdocs-devops): The same MkDocs doc site containerized with Docker and served w/ K8s, to showcase some basic devops skills.
