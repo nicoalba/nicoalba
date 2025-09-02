@@ -32,4 +32,4 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 
 - [solana-demo](https://github.com/nicoalba/solana-demo): A minimal Solana onchain smart contract built in Anchor (Rust), running against a local single-node validator/blockchain.
 - [python-web3-app](https://github.com/nicoalba/python-web3-app): A Python web3 app that connects to Ethereum/Solana test networks and queries an address for the ETH/SOL balance. Includes auto-generated FastAPI docs, deployed with Render.
-- [pyth-price-solana](https://github.com/nicoalba/pyth-price-solana): An end-to-end tutorial that takes you from a blank repo to a working Anchor program on devnet that reads a Pyth price feed.
+- [pyth-price-solana](https://github.com/nicoalba/pyth-price-solana): An end-to-end tutorial that takes you from a blank repo to a working Anchor program on Solana devnet that reads a Pyth price feed.
