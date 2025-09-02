@@ -22,10 +22,14 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 - [docsite-apis](https://github.com/nicoalba/docsite-apis): A static doc site generated with MkDocs, including an OpenAPI spec I created from scratch and API docs generated with Redocly, all served with GitHub Pages.
   - [mkdocs-devops](https://github.com/nicoalba/mkdocs-devops): The same MkDocs doc site containerized with Docker and served w/ K8s, to showcase some basic devops skills.
 - [sphinx-rst-demo](https://github.com/nicoalba/sphinx-rst-demo): A simple Sphinx doc site written entirely in reStructuredText. It's configured via `.conf.py`, built using `make html`, and served with GitHub pages.
-- [python-web3-app](https://github.com/nicoalba/python-web3-app): A Python web3 app that connects to Ethereum/Solana test networks and queries an address for the ETH/SOL balance. Includes auto-generated FastAPI docs, deployed with Render.
 - [python-script-docs](https://github.com/nicoalba/python-script-docs): A simple Python script that reads a YAML file and writes the API endpoints to a Markdown file.
 - [k8s-repo-fork](https://github.com/nicoalba/k8s-repo-fork/pull/1): I reviewed, edited, and uplifted a tutorial on the Kubernetes open-source docs.
-- [solana-demo](https://github.com/nicoalba/solana-demo): A minimal Solana onchain smart contract built in Anchor (Rust), running against a local single-node validator/blockchain.
 - [coded-correspondence](https://github.com/nicoalba/python-classes/blob/master/coded-correspondence/coded_correspondence.ipynb): A series of Python-based cryptography exercises, built and tested in a Jupyter Notebook.
 - [js-basic-programming](https://github.com/nicoalba/js-basic-programming): A basic JavaScript web app I coded and documented for a class on Udemy.
 - [ai-prompts-docs](https://github.com/nicoalba/writing-samples/blob/master/ai-prompts-docs.md): A topic that explores how GenAI prompts can be used to automate/accelerate doc creation.
+
+### Web3
+
+- [solana-demo](https://github.com/nicoalba/solana-demo): A minimal Solana onchain smart contract built in Anchor (Rust), running against a local single-node validator/blockchain.
+- [python-web3-app](https://github.com/nicoalba/python-web3-app): A Python web3 app that connects to Ethereum/Solana test networks and queries an address for the ETH/SOL balance. Includes auto-generated FastAPI docs, deployed with Render.
+- [pyth-price-solana](https://github.com/nicoalba/pyth-price-solana): An end-to-end tutorial that takes you from a blank repo to a working Anchor program on devnet that reads a Pyth price feed.
