@@ -4,7 +4,8 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 
 ## Currently learning
 
-- OpenZiti
+- OpenZiti / Zero trust
+- Linux
 - Python/Rust
 - Blockchain (Ethereum/Solana)
 - API doc knowledge (OpenAPI, FastAPI)
