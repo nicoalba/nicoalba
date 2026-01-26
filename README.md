@@ -1,6 +1,6 @@
 ## About me
 
-I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/stats/blitz?days=0), climbing, powerlifting, traveling, cats, carajillos, good food, truth, liberty, blockchain ecosystems, cybersecurity, decentralization, Python, and supporting the Argentine national football team.
+I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/stats/blitz?days=0), climbing, powerlifting, traveling, cats, carajillos, good food, truth, liberty, blockchains, cybersecurity, decentralization, Python, and supporting the Argentine national football team.
 
 ## Currently learning
 
