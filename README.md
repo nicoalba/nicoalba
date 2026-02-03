@@ -14,6 +14,7 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 
 ## Currently reading
 
+- [Mastering Web3 Documentation](https://www.amazon.com/dp/B0D48FP8T1) by Jessie Mongeon
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) by by Andreas M. Antonopoulos and Gavin Wood
 - [Automate the Boring Stuff with Python](https://www.amazon.com/Automate-Boring-Stuff-Python-3rd/dp/1718503407) by Al Sweigart
 - [Mastering Blockchain](https://www.amazon.com/Mastering-Blockchain-technical-blockchain-cryptography/) by Imran Bashir
