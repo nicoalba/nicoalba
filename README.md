@@ -38,3 +38,7 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 - [pyth-price-solana](https://github.com/nicoalba/pyth-price-solana): An end-to-end tutorial that takes you from a blank repo to a working Anchor program on Solana devnet that reads a Pyth price feed.
 - [solana-demo](https://github.com/nicoalba/solana-demo): A minimal Solana onchain smart contract built in Anchor (Rust), running against a local single-node validator/blockchain.
 - [python-web3-app](https://github.com/nicoalba/python-web3-app): A Python web3 app that connects to Ethereum/Solana test networks and queries an address for the ETH/SOL balance. Includes auto-generated FastAPI docs, deployed with Render.
+
+#### Open-source contributions
+
+- [Use zrok proxy with BlueBubbles](https://github.com/BlueBubblesApp/bluebubbles-docs/pull/29): zrok is already integrated into the BlueBubbles Server settings, but lacked a corresponding guide in the "BYO Proxy" section. This guide helps users who want an open-source, high-bandwidth (5GB/day) alternative to Cloudflare and Ngrok.
