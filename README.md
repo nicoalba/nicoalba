@@ -8,7 +8,7 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 - Linux
 - Python/Rust
 - Blockchain (Ethereum/Solana)
-- API doc knowledge (OpenAPI, FastAPI)
+- API docs (OpenAPI, FastAPI)
 - reStructuredText + Sphinx
 - GenAI and RAG
 
