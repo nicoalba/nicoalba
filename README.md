@@ -41,4 +41,4 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 
 #### Open-source contributions
 
-- [Use zrok proxy with BlueBubbles](https://github.com/BlueBubblesApp/bluebubbles-docs/pull/29): zrok is already integrated into the BlueBubbles Server settings, but lacked a corresponding guide in the "BYO Proxy" section. This guide helps users who want an open-source, high-bandwidth (5GB/day) alternative to Cloudflare and Ngrok.
+- [Use zrok proxy with BlueBubbles](https://github.com/BlueBubblesApp/bluebubbles-docs/pull/29): zrok is already integrated into BlueBubbles Server, but lacked a corresponding usage guide. This guide helps users who want an open-source, high-bandwidth (5GB/day) alternative to Cloudflare and Ngrok.
