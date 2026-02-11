@@ -4,7 +4,7 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 
 ## Currently learning
 
-- OpenZiti / Zero-trust cybersecurity
+- OpenZiti / zero-trust cybersecurity
 - Linux / Proxmox / LXC / remote development
 - Blockchain (Ethereum/Solana)
 - API docs (OpenAPI, FastAPI)
