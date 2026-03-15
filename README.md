@@ -20,6 +20,10 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 
 ## Projects
 
+#### Pasion projects / sidegigs
+
+- [catchtheset](https://github.com/nicoalba/catchtheset): A vibe-first house music event discovery platform that uses AI to automatically scrape, classify, and curate nightlife events across five U.S. cities.
+
 #### AI, APIs, and DevOps
 
 - [rag-chatbot](https://github.com/nicoalba/docs-rag-agent): A RAG chatbot with source citations, powered by Ollama + Chroma. Streamlit front end and FastAPI back end.
