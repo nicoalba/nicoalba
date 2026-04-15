@@ -7,9 +7,7 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 - OpenZiti / zero-trust cybersecurity
 - Linux / Proxmox / LXC / remote development
 - Blockchain (Ethereum/Solana)
-- API docs (OpenAPI, FastAPI)
-- reStructuredText + Sphinx
-- GenAI and RAG
+- AI enhancement
 
 ## Currently reading
 
