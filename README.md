@@ -4,9 +4,7 @@ I like [tech] writing, reading, [chess](https://www.chess.com/member/nicojillo/s
 
 ## Currently learning
 
-- OpenZiti / zero-trust cybersecurity
-- Linux / Proxmox / LXC / remote development
-- Blockchain (Ethereum/Solana)
+- Pinecone products
 - AI enhancement
 
 ## Currently reading
